@@ -12,7 +12,7 @@ Run Configuration Enviroments:
 - AWS Server Product: real
 
 Services(4EA):
-- API Gateway Proxy Server(Edge server) - Routing(Proxying) and L4 Loadbalancing(RR)
+- API Gateway Proxy Server(Edge server;Zuul Server) - Routing(Proxying) and L4 Loadbalancing(RR)
 - Config Server(Config server)
 - Dicovery and Register Server(Eureka Server)
 - Normal Server(Frontend Server:port01/Frontend Server:port02)
