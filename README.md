@@ -19,5 +19,5 @@ Services(4EA):
 - Config Remote Repository(https://github.com/humblem2/test-config)
 
 Available URL:
-https://github.com/humblem2
-https://github.com/humblem2/test-config
+- https://github.com/humblem2
+- https://github.com/humblem2/test-config
