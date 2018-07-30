@@ -1,5 +1,5 @@
 # About test-config
-This is discription of spring-cloud-config-repository 
+This is description of spring-cloud-config-repository 
 for MSA Projects 
 named by spring-cloud-zuul-config-eureka-merge-test.
 
