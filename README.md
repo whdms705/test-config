@@ -1,5 +1,7 @@
 # About test-config
-spring-cloud-config-repository for MSA Projects named by spring-cloud-zuul-config-eureka-merge-test
+This is discription of spring-cloud-config-repository 
+for MSA Projects 
+named by spring-cloud-zuul-config-eureka-merge-test.
 
 Springboot Applciation:
 - Using Embeded WAS and Build/Package/run jar
