@@ -13,7 +13,7 @@ Services(4EA):
 - API Gateway Proxy Server(Edge server) - Routing(Proxying) and L4 Loadbalancing(RR)
 - Config Server(Config server)
 - Dicovery and Register Server(Eureka Server)
-- Normal Server(Frontend:port01/Frontend:port02)
+- Normal Server(Frontend Server:port01/Frontend Server:port02)
 - Config Remote Repository(https://github.com/humblem2/test-config)
 
 Available URL:
