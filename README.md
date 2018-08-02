@@ -16,8 +16,10 @@ Services(5EA):
 - Config Server(Config server)
 - Dicovery and Register Server(Eureka Server)
 - Normal Server(Frontend Server:port01/Frontend Server:port02)
-- Config Remote Repository(https://github.com/humblem2/test-config)
 - Data Access Server(Backend Server with Swagger) connected RDB(mysql) using mapper(Mybatis)
+
+- Config Remote Repository(https://github.com/humblem2/test-config)
+
 
 Available URL:
 - https://github.com/humblem2
