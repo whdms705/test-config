@@ -11,13 +11,15 @@ Run Configuration Enviroments:
 - AWS Server Develop: beta
 - AWS Server Product: real
 
-Services(4EA):
+Services(5EA):
 - API Gateway Proxy Server(Edge server;Zuul Server) - Routing(Proxying) and L4 Loadbalancing(RR)
 - Config Server(Config server)
 - Dicovery and Register Server(Eureka Server)
 - Normal Server(Frontend Server:port01/Frontend Server:port02)
 - Config Remote Repository(https://github.com/humblem2/test-config)
+- Data Access Server(Backend Server with Swagger) connected RDB(mysql) using mapper(Mybatis)
 
 Available URL:
 - https://github.com/humblem2
 - https://github.com/humblem2/test-config
+- https://swagger.io/
